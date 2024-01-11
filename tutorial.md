@@ -1,7 +1,7 @@
 Tambola Stage 4 - Win the game
 ======================
 In this activity, you will display the winner or loser in the game.
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525744/images/8813171/prjct.png" width = "100%" height = "50%">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525744/images/8813171/prjct.png" width = "50%" height = "auto">
 
 Follow the given steps to complete this activity.
 
